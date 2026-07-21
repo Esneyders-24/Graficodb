@@ -1,4 +1,4 @@
-fetch("http://localhost:3000/grafico")
+fetch("https://esneyders.alwaysdata.net/grafico")
     .then(response => response.json())
     .then(datos => {
 
